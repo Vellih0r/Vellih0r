@@ -21,4 +21,4 @@
 
 ### Contacts
 
-[LinkedIn](https://www.linkedin.com/in/mykhailo-yehrashkin/) | [University Email](mailto:L00194993@atu.ie) | [Personal Email](mailto:ggffttuga@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/mykhailo-yehrashkin-49b423333/) | [University Email](mailto:L00194993@atu.ie) | [Personal Email](mailto:ggffttuga@gmail.com)
