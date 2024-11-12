@@ -1,4 +1,4 @@
-## Hi there! I am Misha or Vellig0r :^) 👋
+## Hi there! I am Misha or Vellih0r :^)  👋
 
 <!--
 **Vellih0r/Vellih0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
