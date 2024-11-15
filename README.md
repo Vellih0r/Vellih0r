@@ -4,11 +4,11 @@
 **Vellih0r/Vellih0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🧑‍💻 I love learning Computer Science.
+- 🧑‍💻 I enjoy learning Computer Science.
 
 - 📖 Now I am studying in *Atlantic Technological University* on *Basic Computing*. Place: Letterkenny, Ireland
 
-- 🚴 I like cycling, reading, doing sports(gym, box) and growing flowers on my windowsill🪴
+- 🚴 I like cycling, reading, doing sports and cooking🧑‍🍳
 
 ## That I already know:
 
